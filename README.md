@@ -84,3 +84,8 @@ MAC 주소 위조 (선택사항)
 OUI 예시: 00:07:89 (KT 장비 기반)
 
 나머지 부분은 랜덤하게 설정
+---
+https://github.com/veilRedeemer/bypassQoSKoreatelecomISP\
+https://archive.md/VRZIO
+---
+
