@@ -1,0 +1,1 @@
+# KT_Public-Network_QOS_Bypass_OPENWRT
